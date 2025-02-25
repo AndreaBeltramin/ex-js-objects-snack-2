@@ -17,4 +17,4 @@ const secondBurger = structuredClone(hamburger);
 const thirdBurger = structuredClone(hamburger);
 
 // Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
-// Sono stati creati 3 oggetti 
+// Sono stati creati 9 oggetti: 3 oggetti hamburger, 3 oggetti maker, 3 oggetti restaurant.

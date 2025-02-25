@@ -17,5 +17,5 @@ console.log(hamburger.ingredients[0]); // Salad
 console.log(secondBurger.ingredients[0]); // Salad
 
 // Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
-// In memoria sono stati creati due oggetti hamburger ma l'oggetto ingredients annidato non è stato copiato in secondBurger
+// In memoria sono stati creati tre oggetti: due oggetti hamburger e l'oggetto ingredients annidato che non è stato copiato in secondBurger
 // ma fa solo riferimento all'oggetto ingredients del primo hamburger
